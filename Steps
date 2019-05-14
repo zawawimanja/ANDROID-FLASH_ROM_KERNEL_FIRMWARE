@@ -11,3 +11,7 @@
  - flash rom,magisk
 6. Wipe all except SD CARD
 
+//adb command
+-install apk from pc to device
+1. adb install <path to apk>
+
