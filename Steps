@@ -8,7 +8,7 @@
 - fastboot reboot
 5. Enter  TRWP
  - adb reboot recovery
- - flash rom,magisk
+ - flash rom,magisk,gapps nano
 6. Wipe all except SD CARD
 
 //adb command
