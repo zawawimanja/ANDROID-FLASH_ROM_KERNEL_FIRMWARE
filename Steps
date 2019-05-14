@@ -1,0 +1,13 @@
+1. Tap build number to unlock developer option.
+2. Unlock bootloader
+3. Backup everything - Titanium Backup
+4. Fastboot/Bootloader mode & adb command
+- adb devices
+- adb reboot bootloader
+- fastboot flash recovery twrp.img
+- fastboot reboot
+5. Enter  TRWP
+ - adb reboot recovery
+ - flash rom,magisk
+6. Wipe all except SD CARD
+
