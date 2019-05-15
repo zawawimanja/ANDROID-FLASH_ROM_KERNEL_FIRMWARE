@@ -1,0 +1,9 @@
+
+1. Error 7
+- rom not compatible. Previous in Poco need to flash pie 9 firmware vendor first & then flash the custom rom.
+
+2. SD Card need to used 10 class only & dont format as internal as it wont detect.
+
+3. When backup stock rom, check whether the data in external is display. The external storage is display but the data not display.
+
+4. Dont gelabah biawak. 
