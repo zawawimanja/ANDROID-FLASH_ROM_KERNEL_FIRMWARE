@@ -1,0 +1,7 @@
+
+
+1. adb reboot bootloader
+
+2. fastboot flash kernel.img
+
+3. fastboot reboot
