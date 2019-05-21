@@ -5,7 +5,8 @@
 - adb devices
 - adb reboot bootloader
 - fastboot flash recovery twrp.img
-- fastboot reboot
+- fastboot reboot 
+- immediately  press volume + power for manual reboot recovery if not repeat step 4 back
 5. Enter  TRWP
  - adb reboot recovery
  - backup stock rom
